@@ -1,2 +1,2 @@
-# pg-crud
-simple crud with postgresql and php
+# Postgresql Crud
+simple crud prosedural with postgresql and php
