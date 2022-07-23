@@ -1,9 +1,6 @@
 <?php 
 include_once "include/header.php";
 
-
-//$query = "SELECT * FROM public.mybooks";
-//$result = pg_query($conn, $query);
  $getUrl = $_SERVER['REQUEST_URI'];
  $url = explode('/', $getUrl);
  if ($url[2] == '' || $url[2] == 'index.php') {
